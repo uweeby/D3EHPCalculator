@@ -24,7 +24,7 @@ Demo Link: Not available at this time
 
 Screenshot
 ----------
-[![](http://imgur.com/IfRCp)](http://imgur.com/IfRCp)
+[![](http://imgur.com/IfRCp.png)](http://imgur.com/IfRCp.png)
 
 
 Version 1.0
