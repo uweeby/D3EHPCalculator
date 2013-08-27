@@ -8,7 +8,7 @@ Bugs/Suggestions: uweenukr@gmail.com
 
 Tools
 -----
-* C# written in VS2008
+* VS2012 Project
 * Uses Blizzard API: https://github.com/Blizzard/d3-api-docs
 
 
